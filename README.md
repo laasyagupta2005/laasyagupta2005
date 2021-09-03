@@ -2,6 +2,8 @@
 <img align = "center" alt="GIF" src = "https://media.giphy.com/media/535zobBPftjrYdM47D/giphy.gif" width = "400">
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=laasyagupta2005&theme=dark&hide_border=false" width = 400>
 
+![github graph](https://activity-graph.herokuapp.com/graph?username=laasyagupta2005&theme=react-pink)
+
 #### VISITOR COUNT
 ![image](https://profile-counter.glitch.me/laasyagupta2005/count.svg)
 
